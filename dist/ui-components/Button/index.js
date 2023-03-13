@@ -9,14 +9,14 @@ const Button = ({ children, onPress }) => (react_1.default.createElement(react_n
     react_1.default.createElement(react_native_1.Text, { style: styles.title }, children)));
 const styles = react_native_1.StyleSheet.create({
     container: {
-        backgroundColor: '#007AFF',
+        backgroundColor: "#007AFF",
         padding: 10,
         borderRadius: 5,
     },
     title: {
         fontSize: 18,
-        color: '#fff',
-        textAlign: 'center',
+        color: "#fff",
+        textAlign: "center",
     },
 });
 exports.default = Button;
