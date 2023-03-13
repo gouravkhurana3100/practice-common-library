@@ -13,6 +13,6 @@ storiesOf('Button heloo hello hello', module)
   ))
   .add('with some emoji', () => (
     <Button onPress={action('clicked-emoji')}>
-      <Text>😀 😎 👍 💯 yeah so many emoijs</Text>
+      <Text>😀 😎 👍 💯 yeah yeah yeah 12 312</Text>
     </Button>
   ));

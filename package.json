@@ -10,7 +10,8 @@
     "test": "jest",
     "storybook": "start-storybook -p 7007",
     "build-storybook": "build-storybook",
-    "prestorybook": "rnstl"
+    "prestorybook": "rnstl",
+    "build": "tsc "
   },
   "dependencies": {
     "react": "18.2.0",
